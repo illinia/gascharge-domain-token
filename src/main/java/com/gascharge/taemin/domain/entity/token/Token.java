@@ -1,6 +1,6 @@
 package com.gascharge.taemin.domain.entity.token;
 
-import com.gascharge.taemin.entity.BaseTimeEntity;
+import com.gascharge.taemin.jpa.entity.BaseTimeEntity;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
